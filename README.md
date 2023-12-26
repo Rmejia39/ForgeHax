@@ -48,3 +48,5 @@ newly added jar. So once it's indexed, you can build with IntelliJ without any i
 Read the FAQ on the [wiki](https://github.com/fr1kin/ForgeHax/wiki/FAQ)
 
 ###### Credit to Rain#4705 for the logo
+
+
